@@ -1,5 +1,5 @@
 # Eureka service
-
+Zuul Server is a gateway application that handles all the requests and does the dynamic routing of microservice applications.
 
 ## Context
 The Esports wiki allows you to find every bit of information about the games, teams, tournaments and players that are involved in Espors. You can look at them in detail, add, delete or even edit them. This way you can keep your own database about your favorite esports game / team.
